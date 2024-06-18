@@ -1,5 +1,6 @@
 ## Hello! 👋 I'm Pritom
-I'm a Software Engineer based in Dhaka, Bangladesh
+I'm a Software Engineer based in Dhaka, Bangladesh 
+
 🔭 I’m currently working on 
 * Backend Web Development (Python, Golang)
 * Linux
