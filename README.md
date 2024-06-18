@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hello! 👋 I'm Pritom
+I'm a Software Engineer based in Dhaka, Bangladesh
+🔭 I’m currently working on 
+* Backend Web Development (Python, Golang)
+* Linux
 <!--
 **PritomKarmokar/PritomKarmokar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
